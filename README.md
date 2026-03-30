@@ -31,34 +31,35 @@ Specialized in microservices architecture, financial systems, and production-gra
 
 ---
 
-## What I Specialize In
+## Current Work / Interests
 
-- **Financial Systems & Trading Infrastructure** — Order routing, trade execution, market connectivity
-- **Distributed Systems** — Microservices architecture, service mesh, inter-service communication patterns
-- **FIX Protocol & Market Data** — Order processing, market connectivity, message routing
-- **High-Performance APIs** — RESTful service design, contract design, performance optimization
-- **Advanced SQL** — Complex queries, query optimization, data integrity, schema design
-- **Event-Driven Architecture** — Asynchronous processing, pub/sub patterns, eventual consistency
-- **Production Debugging** — Multi-service tracing, observability, performance profiling
-- **Data Migrations** — Schema transitions in production financial systems, zero-downtime deployments
+**Trading Infrastructure**
+- Order routing and execution logic across multiple venues
+- Settlement and P&L reconciliation pipelines
+- FIX protocol implementation and market data feeds
+- Real-time risk aggregation and margin management
+- Multi-asset cross-venue system integration
 
----
+**Distributed Systems**
+- Microservices architecture and inter-service communication
+- Event-driven patterns and eventual consistency models
+- CQRS and domain-driven design in financial contexts
+- Service mesh and observability at scale
+- Distributed transaction handling and saga patterns
 
-## Current Work
+**Data & Performance**
+- Advanced SQL query optimization and data modeling
+- Schema transitions without downtime in production systems
+- High-performance API design and contract specifications
+- Multi-service tracing and production debugging
+- Data integrity and consistency guarantees in financial systems
 
-**Trading Infrastructure & Systems**
-- Order Management Systems (OMS) — order lifecycle, execution algorithms, risk controls
-- Trade Processing — settlement, reconciliation, P&L calculations, STP flows
-- Market Connectivity — FIX protocol implementation, market data feeds, multi-exchange routing
-- Risk Management — real-time position tracking, exposure limits, margin calculations
-- System Integration — cross-asset support, multi-venue trading
-
-**Technical Stack**
-- **Backend**: ASP.NET Core, C#, microservices architecture
-- **Databases**: SQL Server, PostgreSQL, advanced schema design and optimization
-- **Frontend**: React, TypeScript, Blazor
-- **Architecture**: Microservices, Event-Driven, CQRS, Domain-Driven Design
-- **Cross-Cutting**: FIX protocol, distributed transactions, observability, performance profiling
+**Technical Foundation**
+- Backend: ASP.NET Core, C#, advanced patterns
+- Databases: SQL Server, PostgreSQL
+- Frontend: React, TypeScript, Blazor
+- Architecture: Microservices, Event-Driven, CQRS, DDD
+- Cross-Cutting: FIX protocol, distributed systems, observability
 
 ---
 
