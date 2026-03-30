@@ -43,7 +43,3 @@ Software Engineer with CS background and experience building high-performance, l
 - High-performance, low-latency API design and system reliability
 - Python for backtesting, analytics, and predictive modeling
 - CQRS and schema evolution in production financial systems
-
----
-
-Interested in the intersection of quantitative finance and software engineering. Always open to new opportunities, feel free to reach out.
