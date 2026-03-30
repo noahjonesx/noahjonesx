@@ -1,6 +1,6 @@
 ## Noah Jones
 
-Software engineer with experience building high-performance, low-latency financial systems. Background in Computer Science.
+Software Engineer with CS background and experience building high-performance, low-latency financial systems.
 
 ---
 
