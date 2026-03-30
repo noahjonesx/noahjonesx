@@ -36,20 +36,15 @@ Software Engineer with CS background and experience building high-performance, l
 
 ## Current Work / Interests
 
-**Electronic Trading Systems**
 - FIX protocol implementations and market data architecture
 - Order routing and execution algorithms
 - Post-trade processing and settlement pipelines
 - Real-time risk aggregation, margin management, and exposure controls
 - Multi-asset cross-venue system integration and connectivity
-
-**System Design & Performance**
 - High-performance, low-latency API design in production trading environments
 - Schema transitions and data migrations without downtime
 - Data integrity and consistency guarantees in financial systems
 - Fundamental data structures, algorithms, and OOP patterns
-
-**Distributed & Event-Driven Architecture**
 - Event-driven patterns and architecture
 - Apache Kafka and distributed event-streaming platforms
 - CQRS and domain-driven design in production trading contexts
