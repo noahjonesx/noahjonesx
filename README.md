@@ -36,21 +36,13 @@ Software Engineer with CS background and experience building high-performance, l
 
 ## Current Work / Interests
 
-- FIX protocol implementations and market data architecture
-- Order routing and execution algorithms
-- Post-trade processing and settlement pipelines
-- Real-time risk aggregation, margin management, and exposure controls
-- Multi-asset cross-venue system integration and connectivity
-- Anomaly detection and pattern recognition in execution flows
-- Predictive modeling for order routing optimization and market microstructure
-- High-performance, low-latency API design in production trading environments
-- Schema transitions and data migrations without downtime
-- Data integrity and consistency guarantees in financial systems
-- Python for backtesting, data analysis, and analytics pipelines
-- Fundamental data structures, algorithms, and OOP patterns
-- Event-driven patterns and architecture
-- Apache Kafka and distributed event-streaming platforms
-- CQRS and domain-driven design in production trading contexts
+- FIX protocol, order routing, and market connectivity across multiple venues
+- Post-trade settlement, reconciliation, and real-time risk aggregation
+- Anomaly detection and predictive modeling for execution optimization
+- Event-driven architecture and Apache Kafka-based data pipelines
+- High-performance, low-latency API design and system reliability
+- Python for backtesting, analytics, and predictive modeling
+- CQRS and schema evolution in production financial systems
 
 ---
 
