@@ -33,10 +33,8 @@ Software Engineer with CS background and experience building high-performance, l
 
 ## Current Work / Interests
 
-- FIX protocol, order routing, and market connectivity across multiple venues
-- Post-trade settlement, reconciliation, and real-time risk aggregation
-- Anomaly detection and predictive modeling for execution optimization
-- Event-driven architecture and Apache Kafka-based data pipelines
 - High-performance, low-latency API design and system reliability
-- Python for backtesting, analytics, and predictive modeling
+- FIX protocol, order routing, and market connectivity across multiple venues
+- Event-driven architecture and Apache Kafka-based data pipelines
 - CQRS and schema evolution in production financial systems
+- Anomaly detection and predictive modeling for execution optimization
