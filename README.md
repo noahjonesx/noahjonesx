@@ -41,9 +41,12 @@ Software Engineer with CS background and experience building high-performance, l
 - Post-trade processing and settlement pipelines
 - Real-time risk aggregation, margin management, and exposure controls
 - Multi-asset cross-venue system integration and connectivity
+- Anomaly detection and pattern recognition in execution flows
+- Predictive modeling for order routing optimization and market microstructure
 - High-performance, low-latency API design in production trading environments
 - Schema transitions and data migrations without downtime
 - Data integrity and consistency guarantees in financial systems
+- Python for backtesting, data analysis, and analytics pipelines
 - Fundamental data structures, algorithms, and OOP patterns
 - Event-driven patterns and architecture
 - Apache Kafka and distributed event-streaming platforms
