@@ -1,12 +1,12 @@
-## Hey, I'm Noah 👋
+## Noah Jones
 
 **Software Engineer | Trading & Financial Systems | Distributed Systems**
 
-I build high-performance backend systems and trading infrastructure. Specialized in microservices architecture, financial systems, and production-grade distributed systems. Currently working in the trading industry with .NET, SQL, and modern cloud-native technologies.
+Specialized in microservices architecture, financial systems, and production-grade distributed systems. Currently working in the trading industry with .NET, SQL, and cloud-native technologies.
 
 ---
 
-## 🎯 Core Competencies
+## Core Competencies
 
 **Backend & Infrastructure**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -31,9 +31,9 @@ I build high-performance backend systems and trading infrastructure. Specialized
 
 ---
 
-## 💡 What I Specialize In
+## What I Specialize In
 
-- **Financial Systems & Trading Infrastructure** — Building robust systems for order routing, trade execution, and market connectivity
+- **Financial Systems & Trading Infrastructure** — Order routing, trade execution, market connectivity
 - **Distributed Systems** — Microservices architecture, service mesh, inter-service communication patterns
 - **FIX Protocol & Market Data** — Order processing, market connectivity, message routing
 - **High-Performance APIs** — RESTful service design, contract design, performance optimization
@@ -44,49 +44,22 @@ I build high-performance backend systems and trading infrastructure. Specialized
 
 ---
 
-## 🛠️ Technical Depth
+## Current Work
 
-| Area | Expertise |
-|------|-----------|
-| **Backend** | ASP.NET Core, microservices, API design, event sourcing |
-| **Databases** | SQL Server, PostgreSQL, data modeling, advanced querying |
-| **Finance** | Trading systems, FIX protocol, order management, risk systems |
-| **Frontend** | React, TypeScript, state management, component architecture |
-| **Architecture** | DDD, CQRS, event-driven systems, distributed transactions |
-| **DevOps** | Cloud deployment, containerization, observability |
+**Trading Infrastructure & Systems**
+- Order Management Systems (OMS) — order lifecycle, execution algorithms, risk controls
+- Trade Processing — settlement, reconciliation, P&L calculations, STP flows
+- Market Connectivity — FIX protocol implementation, market data feeds, multi-exchange routing
+- Risk Management — real-time position tracking, exposure limits, margin calculations
+- System Integration — cross-asset support, multi-venue trading
 
----
-
-## 📊 Trading Systems Focus
-
-My expertise spans the full spectrum of trading infrastructure:
-- **Order Management Systems (OMS)** — Order lifecycle, execution algorithms
-- **Trade Processing** — Settlement, reconciliation, P&L calculations
-- **Market Connectivity** — FIX protocol, market data feeds, connectivity layers
-- **Risk Management** — Position tracking, exposure limits, real-time monitoring
-- **System Integration** — Multi-exchange connectivity, cross-asset support
+**Technical Stack**
+- **Backend**: ASP.NET Core, C#, microservices architecture
+- **Databases**: SQL Server, PostgreSQL, advanced schema design and optimization
+- **Frontend**: React, TypeScript, Blazor
+- **Architecture**: Microservices, Event-Driven, CQRS, Domain-Driven Design
+- **Cross-Cutting**: FIX protocol, distributed transactions, observability, performance profiling
 
 ---
 
-## 📍 Current Tech Stack
-
-- **Language**: C#, TypeScript/JavaScript
-- **Backend**: ASP.NET Core, Entity Framework Core
-- **Frontend**: React, Blazor
-- **Database**: SQL Server, PostgreSQL
-- **Architecture**: Microservices, Event-Driven, CQRS patterns
-
----
-
-## 🚀 Always Learning
-
-- Advanced distributed systems patterns
-- Financial domain modeling
-- Cloud-native architectures
-- Performance optimization techniques
-
----
-
-## 📬 Get in Touch
-
-I'm interested in opportunities involving **trading infrastructure, financial systems, and backend engineering**. If you're working on challenging problems in fintech or distributed systems, let's talk.
+Interested in the intersection of quantitative finance and software engineering. Always open to new opportunities, feel free to reach out.
