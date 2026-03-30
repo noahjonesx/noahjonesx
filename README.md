@@ -37,37 +37,21 @@ Software Engineer with CS background and experience building high-performance, l
 ## Current Work / Interests
 
 **Electronic Trading Systems**
-- Execution systems across equities, FX, and futures
-- Order routing and execution algorithms across multiple venues
+- FIX protocol implementations and market data architecture
+- Order routing and execution algorithms
 - Post-trade processing and settlement pipelines
-- FIX protocol implementation and market data architecture
 - Real-time risk aggregation, margin management, and exposure controls
 - Multi-asset cross-venue system integration and connectivity
 
-**Distributed & Event-Driven Architecture**
-- Microservices architecture and inter-service communication patterns
-- Apache Kafka and distributed event-streaming platforms
-- Event-driven patterns with eventual consistency models
-- CQRS and domain-driven design in production trading contexts
-- Service mesh, distributed transaction handling, and saga patterns
-- Observability and multi-service tracing at scale
-
 **System Design & Performance**
-- High-performance, low-latency API design and contract specifications
-- Advanced SQL query optimization and relational schema design
+- High-performance, low-latency API design in production trading environments
 - Schema transitions and data migrations without downtime
-- Production debugging and observability in multi-service environments
 - Data integrity and consistency guarantees in financial systems
 - Fundamental data structures, algorithms, and OOP patterns
 
-**Technical Stack**
-- **Backend**: ASP.NET Core, C#, Python, Java, C++
-- **Frontend**: React, TypeScript, Node.js, Blazor
-- **Databases**: SQL Server, PostgreSQL
-- **Infrastructure**: Docker, Kubernetes, Apache Kafka
-- **Architecture**: Microservices, Event-Driven, CQRS, DDD
-- **Cross-Platform**: Windows and Unix-based systems, cloud-native development, CI/CD processes
-
+**Distributed & Event-Driven Architecture**
+- Event-driven patterns and architecture
+- Apache Kafka and distributed event-streaming platforms
+- CQRS and domain-driven design in production trading contexts
 ---
-
 Interested in the intersection of quantitative finance and software engineering. Always open to new opportunities, feel free to reach out.
