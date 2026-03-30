@@ -2,7 +2,7 @@
 
 **Software Engineer | Trading & Financial Systems | Distributed Systems**
 
-Specialized in microservices architecture, financial systems, and production-grade distributed systems. Currently working in the trading industry with .NET, SQL, and cloud-native technologies.
+Building high-performance, low-latency financial systems in production trading environments. Full-stack engineer with deep experience across microservices architecture, FIX protocol-based execution systems, and event-driven data pipelines. Precision, reliability, and scalability in fast-paced trading contexts.
 
 ---
 
@@ -20,11 +20,16 @@ Specialized in microservices architecture, financial systems, and production-gra
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Additional Skills**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square)
 ![FIX Protocol](https://img.shields.io/badge/FIX%20Protocol-00A699?style=flat-square)
 ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven-FF6B6B?style=flat-square)
@@ -33,33 +38,37 @@ Specialized in microservices architecture, financial systems, and production-gra
 
 ## Current Work / Interests
 
-**Trading Infrastructure**
-- Order routing and execution logic across multiple venues
-- Settlement and P&L reconciliation pipelines
-- FIX protocol implementation and market data feeds
-- Real-time risk aggregation and margin management
-- Multi-asset cross-venue system integration
+**Electronic Trading Systems**
+- Execution systems across equities, FX, and futures
+- Order routing and execution algorithms across multiple venues
+- Post-trade processing and settlement pipelines
+- FIX protocol implementation and market data architecture
+- Real-time risk aggregation, margin management, and exposure controls
+- Multi-asset cross-venue system integration and connectivity
 
-**Distributed Systems**
-- Microservices architecture and inter-service communication
-- Event-driven patterns and eventual consistency models
-- CQRS and domain-driven design in financial contexts
-- Service mesh and observability at scale
-- Distributed transaction handling and saga patterns
+**Distributed & Event-Driven Architecture**
+- Microservices architecture and inter-service communication patterns
+- Apache Kafka and distributed event-streaming platforms
+- Event-driven patterns with eventual consistency models
+- CQRS and domain-driven design in production trading contexts
+- Service mesh, distributed transaction handling, and saga patterns
+- Observability and multi-service tracing at scale
 
-**Data & Performance**
-- Advanced SQL query optimization and data modeling
-- Schema transitions without downtime in production systems
-- High-performance API design and contract specifications
-- Multi-service tracing and production debugging
+**System Design & Performance**
+- High-performance, low-latency API design and contract specifications
+- Advanced SQL query optimization and relational schema design
+- Schema transitions and data migrations without downtime
+- Production debugging and observability in multi-service environments
 - Data integrity and consistency guarantees in financial systems
+- Fundamental data structures, algorithms, and OOP patterns
 
-**Technical Foundation**
-- Backend: ASP.NET Core, C#, advanced patterns
-- Databases: SQL Server, PostgreSQL
-- Frontend: React, TypeScript, Blazor
-- Architecture: Microservices, Event-Driven, CQRS, DDD
-- Cross-Cutting: FIX protocol, distributed systems, observability
+**Technical Stack**
+- **Backend**: ASP.NET Core, C#, Python, Java, C++
+- **Frontend**: React, TypeScript, Node.js, Blazor
+- **Databases**: SQL Server, PostgreSQL
+- **Infrastructure**: Docker, Kubernetes, Apache Kafka
+- **Architecture**: Microservices, Event-Driven, CQRS, DDD
+- **Cross-Platform**: Windows and Unix-based systems, cloud-native development, CI/CD processes
 
 ---
 
