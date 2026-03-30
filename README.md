@@ -28,10 +28,7 @@ Software Engineer with CS background and experience building high-performance, l
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square)
 ![FIX Protocol](https://img.shields.io/badge/FIX%20Protocol-00A699?style=flat-square)
-![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven-FF6B6B?style=flat-square)
-
 ---
 
 ## Current Work / Interests
