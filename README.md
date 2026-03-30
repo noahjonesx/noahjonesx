@@ -1,8 +1,6 @@
 ## Noah Jones
 
-**Software Engineer | Trading & Financial Systems | Distributed Systems**
-
-Building high-performance, low-latency financial systems in production trading environments. Full-stack engineer with deep experience across microservices architecture, FIX protocol-based execution systems, and event-driven data pipelines. Precision, reliability, and scalability in fast-paced trading contexts.
+Software Engineer with CS background and experience building high-performance, low-latency financial systems.
 
 ---
 
